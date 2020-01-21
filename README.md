@@ -1,2 +1,2 @@
 # Training-imdb-movie
-This code is one of the "Hello Word" of NLP Filed ,Learn and Enjoy
+These codes are some of the "Hello Word" of NLP field ,Learn and Enjoy
